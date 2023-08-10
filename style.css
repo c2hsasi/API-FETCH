@@ -1,0 +1,14 @@
+      #root {
+          display: flex;
+          flex-wrap: wrap;
+          column-gap: 30px;
+      }
+
+      .card {
+          font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+          background-color: rgba(63, 251, 251, 0.834);
+          width: 23%;
+          padding: 0.5em;
+          margin-top: 2em;
+          line-height: 1.3em;
+      }
